@@ -37,7 +37,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 /* --------------------------------------------------------------------- */
 
 body{
-   background: url('/img/ellipse_1_copy_4.jpg') 50% 130px no-repeat;
+   background: url('../img/ellipse_1_copy_4.jpg') 50% 130px no-repeat;
 }
 
 .content {
@@ -112,7 +112,7 @@ body{
    line-height: 36px;
    color: #273d46;
    margin-bottom: 15px;
-   background: url('/img/icon.png') no-repeat left center;
+   background: url('../img/icon.png') no-repeat left center;
    padding-left: 35px;
 }
 
@@ -155,5 +155,5 @@ body{
 
 .content-bottom-info__link span{
    padding-right: 30px;
-   background: url('/img/shape_2_9.svg') no-repeat right;
+   background: url('../img/shape_2_9.svg') no-repeat right;
 }
